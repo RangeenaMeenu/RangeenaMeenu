@@ -14,16 +14,6 @@ I’m an Android Engineer with over 2 years of experience building and deliverin
 
 - Other Skills: Team Leadership, Mentoring Junior Developers, Agile Methodologies, Sprint Planning, Client Communication, UI/UX Collaboration
 
-🚀 What I Do
-
-- Design, develop, and maintain Android apps with a focus on performance and usability
-
-- Write clean, maintainable, and well-tested code
-
-- Collaborate with cross-functional teams to deliver features efficiently
-
-- Continuously learn and explore new Android technologies
-
 🔭 I’m Currently Working On
 
 - DriveMate (Live): A car management app where I lead a team of 4 developers to build features for tracking services, scheduling reminders, and maintaining detailed maintenance logs.
