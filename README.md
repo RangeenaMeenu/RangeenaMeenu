@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
-👋 Hi, I’m Rangeena
+I’m Rangeena
 
 I’m an Android Engineer with over 2 years of experience building and delivering mobile apps for clients across Australia, New Zealand, and the USA. I enjoy turning ideas into clean, reliable, and scalable Android applications.
 
