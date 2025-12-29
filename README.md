@@ -22,7 +22,7 @@ I’m an Android Engineer with over 2 years of experience building and deliverin
 
 - RetroFrame (Live): An Android app for creating vintage-style photo prints with customizable borders, captions, and frame styles inspired by Polaroid cameras.
 
-- MuchMap: A meal planning app (Kotlin + PHP backend) that helps users reduce food waste by enabling weekly meal planning and personalized reminders with API-driven meal data.
+- MunchMap: A meal planning app (Kotlin + PHP backend) that helps users reduce food waste by enabling weekly meal planning and personalized reminders with API-driven meal data.
 
 🌱 I’m always excited to collaborate, learn, and build meaningful Android experiences that make a real impact.
 
